@@ -1,0 +1,11 @@
+C:\Users\0_305_6\Documents\UP5\UP5\bin\Debug\UP5.exe.config
+C:\Users\0_305_6\Documents\UP5\UP5\bin\Debug\UP5.exe
+C:\Users\0_305_6\Documents\UP5\UP5\bin\Debug\UP5.pdb
+C:\Users\0_305_6\Documents\UP5\UP5\obj\Debug\UP5.csproj.AssemblyReference.cache
+C:\Users\0_305_6\Documents\UP5\UP5\obj\Debug\UP5.csproj.SuggestedBindingRedirects.cache
+C:\Users\0_305_6\Documents\UP5\UP5\obj\Debug\UP5.Form1.resources
+C:\Users\0_305_6\Documents\UP5\UP5\obj\Debug\UP5.Properties.Resources.resources
+C:\Users\0_305_6\Documents\UP5\UP5\obj\Debug\UP5.csproj.GenerateResource.cache
+C:\Users\0_305_6\Documents\UP5\UP5\obj\Debug\UP5.csproj.CoreCompileInputs.cache
+C:\Users\0_305_6\Documents\UP5\UP5\obj\Debug\UP5.exe
+C:\Users\0_305_6\Documents\UP5\UP5\obj\Debug\UP5.pdb
